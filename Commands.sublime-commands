@@ -1,0 +1,34 @@
+[
+	{
+		"args":
+		{
+			"style": "camel"
+		},
+		"caption": "CaseStyle: camelCase",
+		"command": "case_style_convert"
+	},
+	{
+		"args":
+		{
+			"style": "upper_camel"
+		},
+		"caption": "CaseStyle: UpperCamelCase",
+		"command": "case_style_convert"
+	},
+	{
+		"args":
+		{
+			"style": "snake"
+		},
+		"caption": "CaseStyle: snake_case",
+		"command": "case_style_convert"
+	},
+	{
+		"args":
+		{
+			"style": "upper_snake"
+		},
+		"caption": "CaseStyle: UPPER_SNAKE_CASE",
+		"command": "case_style_convert"
+	}
+]
